@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-  s.name        = 'unirest'
-  s.version     = '1.1.2'
+  s.name        = 'unirest-bharthur'
+  s.version     = '0.0.1'
   s.summary     = "Unirest-Ruby"
   s.description = "Simplified, lightweight HTTP client library"
   s.authors     = ["Mashape"]
   s.email       = 'opensource@mashape.com'
-  s.homepage    = 'https://github.com/Mashape/unirest-ruby'
+  s.homepage    = 'https://github.com/bharthur/unirest-ruby'
   s.license     = 'MIT'
 
 	s.add_dependency('rest-client', '~> 1.8.0')
